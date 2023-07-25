@@ -1,0 +1,52 @@
+
+.nav-color{
+	background-color: #000000;
+}
+.custom-container{
+	background-color: #333333;
+	
+}
+.footer{
+	background-color: #000000;
+	color:#FFFFFF;
+	position:relative;
+}
+.nav-link{
+	color:#FFFFFF;
+}
+.nav-item:hover{
+	background-color: white;
+}
+.slide-show{
+	height:800px;
+}
+.footer-container{
+	width:250px;
+}
+.footer-icons{
+	margin-left: 500px;
+}
+.SNS{
+	padding: 10px;
+  	width: 80px;
+  	text-align: center;
+	margin-top: 50px;
+}
+.about-me-image{
+	height: 500px;
+}
+.custom-border{
+	width:auto;
+	
+}
+.custom-footer{
+	background-color:#AAA0A0;
+}
+.custom-img{
+	width:100%;
+	height:auto;
+}
+.text{
+	font-size: 1.1em;
+	line-height: 2;
+}
